@@ -13,3 +13,6 @@ input:in-range {
   table, tr, td{
     border: solid 1px black;
 }
+.button{
+  width: 25px;
+}
