@@ -3,5 +3,8 @@ h1{
 }
 
 input{
-    
   }
+
+  table, tr, td{
+    border: solid 1px black;
+}
