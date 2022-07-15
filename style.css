@@ -25,7 +25,9 @@ h1:hover{
 p{
   column-count: 3;
   column-rule-color: red;
-  column-rule-width: 5px;
+  column-rule-width: 40px;
+  column-gap: 3;
+  
 }
 html{
   background-color: rgb(246, 168, 168);
