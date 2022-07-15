@@ -1,16 +1,22 @@
-h1{
-    background-color: aqua;
-}
-
 input:valid {
   color: green;
 }
 input:invalid {
   color: red;
 }
-  table, tr, td{
-    border: solid 1px black;
-}
 .button{
   width: 25px;
 }
+table, tr, td{
+    border: solid 1px black;
+}
+h1{
+  background-color: aqua;
+}
+/*orden:
+  input:valid / input:invalid (0,1,1)
+  .button (0,1,0)
+  tale, tr, td (0,0,1)
+  h1 (0,0,1)
+
+*/
